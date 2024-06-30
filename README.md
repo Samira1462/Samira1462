@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My Name is Samira, and I am interested in all things Java, Spring ecosystem, and Cloud
+
 <!--
 **Samira1462/Samira1462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
